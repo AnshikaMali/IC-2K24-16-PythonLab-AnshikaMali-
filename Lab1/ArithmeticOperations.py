@@ -1,4 +1,3 @@
-
 # Take two numbers as input. Print their sum, difference, product, quotient and remainder. Label each output clearly.
 num1=float(input("Enter first number:"))
 num2=float(input("Enter second number:"))
